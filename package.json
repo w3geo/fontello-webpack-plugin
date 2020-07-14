@@ -1,7 +1,7 @@
 {
-  "name": "fontello-webpack-plugin",
+  "name": "fontello-webpack4-plugin",
   "version": "0.4.8",
-  "description": "Fontello Webpack plugin",
+  "description": "Fontello Webpack4 plugin",
   "main": "src/index.js",
   "author": "Gabriela Seabra",
   "license": "ISC",
