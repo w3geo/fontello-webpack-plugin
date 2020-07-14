@@ -7,14 +7,14 @@ Download icon fonts to webpack build folder using [Fontello](http://fontello.com
 ## Install
 
 ```bash
-npm install fontello-webpack-plugin
+npm install fontello-webpack4-plugin
 ```
 
 ## Usage
 
 `/webpack.config.js`
 ```js
-const FontelloPlugin = require("fontello-webpack-plugin")
+const FontelloPlugin = require("fontello-webpack4-plugin")
 
 module.exports = {
   entry: "index.js",
